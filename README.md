@@ -36,9 +36,7 @@
 </table>
 <table>
   <tr>
-    <th></th>
-    <th>Color</th>
-    <th></th>
+    <th colspan="3">Color</th>
   </tr>
   <tr>
     <td>White</td>
