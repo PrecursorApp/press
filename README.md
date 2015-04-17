@@ -40,11 +40,19 @@ Color
   <tr>
     <td>White</td>
     <td>#FFFFFF</td>
-    <td>![image](color/white.png)</td>
+    <td>
+      <a href="https://raw.githubusercontent.com/precursorapp/press/master/color/white.png">
+        <img src="color/white.png"/>
+      </a>
+    </td>
   </tr>
   <tr>
     <td>Black</td>
     <td>#333333</td>
-    <td>![image](color/black.png)</td>
+    <td>
+      <a href="https://raw.githubusercontent.com/precursorapp/press/master/color/black.png">
+        <img src="color/black.png"/>
+      </a>
+    </td>
   </tr>
 </table>
