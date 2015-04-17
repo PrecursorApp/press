@@ -38,21 +38,21 @@ Color
 ===
 <table>
   <tr>
-    <td>White</td>
-    <td>#FFFFFF</td>
-    <td>
-      <a href="https://raw.githubusercontent.com/precursorapp/press/master/color/white.png">
-        <img src="color/white.png"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
     <td>Black</td>
-    <td>#333333</td>
     <td>
       <a href="https://raw.githubusercontent.com/precursorapp/press/master/color/black.png">
         <img src="color/black.png"/>
       </a>
     </td>
+    <td>#333</td>
+  </tr>
+  <tr>
+    <td>White</td>
+    <td>
+      <a href="https://raw.githubusercontent.com/precursorapp/press/master/color/white.png">
+        <img src="color/white.png"/>
+      </a>
+    </td>
+    <td>#FFF</td>
   </tr>
 </table>
