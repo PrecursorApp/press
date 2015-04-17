@@ -1,10 +1,9 @@
-Logo
-===
 <table>
   <tr>
     <th></th>
     <th>Logo</th>
     <th>Type</th>
+    <th></th>
   </tr>
   <tr>
     <td>White</td>
@@ -18,6 +17,7 @@ Logo
         <img src="type-white/type.png"/>
       </a>
     </td>
+    <td>#FFF</td>
   </tr>
   <tr>
     <td>Black</td>
@@ -31,12 +31,15 @@ Logo
         <img src="type-black/type.png"/>
       </a>
     </td>
+    <td>#333</td>
   </tr>
 </table>
-
-Color
-===
 <table>
+  <tr>
+    <th></th>
+    <th>Color</th>
+    <th></th>
+  </tr>
   <tr>
     <td>Black</td>
     <td>
