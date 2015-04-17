@@ -59,6 +59,9 @@
 </table>
 <table>
   <tr>
+    <th colspan="2">Desktop Screenshots</th>
+  </tr>
+  <tr>
     <td>
       <a href="https://raw.githubusercontent.com/precursorapp/press/master/screens-desktop/home.png">
         <img src="screens-desktop/home.png"/>
@@ -96,6 +99,9 @@
   </tr>
 </table>
 <table>
+  <tr>
+    <th colspan="3">Mobile Screenshots</th>
+  </tr>
   <tr>
     <td>
       <a href="https://raw.githubusercontent.com/precursorapp/press/master/screens-iphone6/home.png">
