@@ -59,10 +59,10 @@
 </table>
 <table>
   <tr>
-    <th colspan="8">Desktop Screenshots</th>
+    <th colspan="4">Desktop Screenshots</th>
   </tr>
   <tr>
-    <td colspan="3"></td>
+    <td></td>
     <td>
       <a href="https://raw.githubusercontent.com/precursorapp/press/master/screens-desktop/home.png">
         <img src="screens-desktop/home.png"/>
@@ -73,10 +73,10 @@
         <img src="screens-desktop/canvas.png"/>
       </a>
     </td>
-    <td colspan="3"></td>
+    <td></td>
   </tr>
   <tr>
-    <td colspan="3"></td>
+    <td></td>
     <td>
       <a href="https://raw.githubusercontent.com/precursorapp/press/master/screens-desktop/team.png">
         <img src="screens-desktop/team.png"/>
@@ -87,10 +87,10 @@
         <img src="screens-desktop/collaborate.png"/>
       </a>
     </td>
-    <td colspan="3"></td>
+    <td></td>
   </tr>
   <tr>
-    <td colspan="3"></td>
+    <td></td>
     <td>
       <a href="https://raw.githubusercontent.com/precursorapp/press/master/screens-desktop/chat.png">
         <img src="screens-desktop/chat.png"/>
@@ -101,14 +101,15 @@
         <img src="screens-desktop/menu.png"/>
       </a>
     </td>
-    <td colspan="3"></td>
+    <td></td>
   </tr>
 </table>
 <table>
   <tr>
-    <th colspan="3">Mobile Screenshots</th>
+    <th colspan="5">Mobile Screenshots</th>
   </tr>
   <tr>
+    <td></td>
     <td>
       <a href="https://raw.githubusercontent.com/precursorapp/press/master/screens-iphone6/home.png">
         <img src="screens-iphone6/home.png"/>
@@ -124,8 +125,10 @@
         <img src="screens-iphone6/chat.png"/>
       </a>
     </td>
+    <td></td>
   </tr>
   <tr>
+    <td></td>
     <td>
       <a href="https://raw.githubusercontent.com/precursorapp/press/master/screens-iphone6/menu.png">
         <img src="screens-iphone6/menu.png"/>
@@ -141,5 +144,6 @@
         <img src="screens-iphone6/recent.png"/>
       </a>
     </td>
+    <td></td>
   </tr>
 </table>
