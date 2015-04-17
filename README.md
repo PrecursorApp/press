@@ -59,7 +59,7 @@
 </table>
 <table>
   <tr>
-    <th colspan="2">Desktop Screenshots</th>
+    <th colspan="4">Desktop Screenshots</th>
   </tr>
   <tr>
     <td></td>
