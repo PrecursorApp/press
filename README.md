@@ -13,7 +13,7 @@
       </a>
     </td>
     <td>
-      <a href="https://raw.githubusercontent.com/precursorapp/press/master/type-white/logo.png">
+      <a href="https://raw.githubusercontent.com/precursorapp/press/master/type-white/type.png">
         <img src="type-white/type.png"/>
       </a>
     </td>
@@ -27,7 +27,7 @@
       </a>
     </td>
     <td>
-      <a href="https://raw.githubusercontent.com/precursorapp/press/master/type-black/logo.png">
+      <a href="https://raw.githubusercontent.com/precursorapp/press/master/type-black/type.png">
         <img src="type-black/type.png"/>
       </a>
     </td>
@@ -43,7 +43,7 @@
   <tr>
     <td>White</td>
     <td>
-      <a href="https://raw.githubusercontent.com/precursorapp/press/master/color/white.png">
+      <a href="color/white.png">
         <img src="color/white.png"/>
       </a>
     </td>
@@ -52,7 +52,7 @@
   <tr>
     <td>Black</td>
     <td>
-      <a href="https://raw.githubusercontent.com/precursorapp/press/master/color/black.png">
+      <a href="color/black.png">
         <img src="color/black.png"/>
       </a>
     </td>
