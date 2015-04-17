@@ -15,7 +15,7 @@ Logo
     </td>
     <td>
       <a href="https://raw.githubusercontent.com/precursorapp/press/master/type-white/logo.png">
-        <img src="logo-white/type.png"/>
+        <img src="type-white/type.png"/>
       </a>
     </td>
   </tr>
@@ -28,7 +28,7 @@ Logo
     </td>
     <td>
       <a href="https://raw.githubusercontent.com/precursorapp/press/master/type-black/logo.png">
-        <img src="logo-black/type.png"/>
+        <img src="type-black/type.png"/>
       </a>
     </td>
   </tr>
