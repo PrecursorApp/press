@@ -4,14 +4,14 @@
   </tr>
   <tr>
     <td>
-      <a href="white.gif">
+      <a href="white.pdf">
         <img src="white.png"/>
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="black.gif">
+      <a href="black.pdf">
         <img src="black.png"/>
       </a>
     </td>
