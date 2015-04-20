@@ -4,15 +4,15 @@
   </tr>
   <tr>
     <td>
-      <a href="https://raw.githubusercontent.com/precursorapp/press/master/logo/white.png">
-        <img src="logo/"/>
+      <a href="logo/">
+        <img src="logo/white.png"/>
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://raw.githubusercontent.com/precursorapp/press/master/logo/black.png">
-        <img src="logo/"/>
+      <a href="logo/">
+        <img src="logo/black.png"/>
       </a>
     </td>
   </tr>
