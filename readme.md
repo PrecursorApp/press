@@ -50,7 +50,7 @@
   <tr>
     <td>
       <a href="phone">
-        <img src="phone/team.png"/>
+        <img src="phone/make.png"/>
       </a>
     </td>
   </tr>
@@ -69,7 +69,7 @@
   <tr>
     <td>
       <a href="desktop">
-        <img src="desktop/team.png"/>
+        <img src="desktop/make.png"/>
       </a>
     </td>
   </tr>
