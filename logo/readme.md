@@ -4,14 +4,14 @@
   </tr>
   <tr>
     <td>
-      <a href="white.pdf">
+      <a href="https://raw.githubusercontent.com/precursorapp/press/master/logo/white.pdf">
         <img src="white.png"/>
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="black.pdf">
+      <a href="https://raw.githubusercontent.com/precursorapp/press/master/logo/black.pdf">
         <img src="black.png"/>
       </a>
     </td>
@@ -23,14 +23,14 @@
   </tr>
   <tr>
     <td>
-      <a href="white.png">
+      <a href="https://raw.githubusercontent.com/precursorapp/press/master/logo/white.png">
         <img src="white.png"/>
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="black.png">
+      <a href="https://raw.githubusercontent.com/precursorapp/press/master/logo/black.png">
         <img src="black.png"/>
       </a>
     </td>
