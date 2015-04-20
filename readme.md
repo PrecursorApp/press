@@ -20,22 +20,22 @@
     </td>
   </tr>
   <tr>
-    <th>phone</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="phone">
-        <img src="phone/home.png"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
     <th>desktop</th>
   </tr>
   <tr>
     <td>
       <a href="desktop">
         <img src="desktop/home.png"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <th>phone</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="phone">
+        <img src="phone/home.png"/>
       </a>
     </td>
   </tr>
