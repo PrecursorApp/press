@@ -5,28 +5,12 @@
   <tr>
     <td>
       <a href="logo">
-        <img src="logo/white.png"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="logo">
         <img src="logo/black.png"/>
       </a>
     </td>
   </tr>
-</table>
-<table>
   <tr>
     <th>type</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="type">
-        <img src="type/white.png"/>
-      </a>
-    </td>
   </tr>
   <tr>
     <td>
@@ -35,8 +19,6 @@
       </a>
     </td>
   </tr>
-</table>
-<table>
   <tr>
     <th>phone</th>
   </tr>
@@ -48,28 +30,12 @@
     </td>
   </tr>
   <tr>
-    <td>
-      <a href="phone">
-        <img src="phone/make.png"/>
-      </a>
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
     <th>desktop</th>
   </tr>
   <tr>
     <td>
       <a href="desktop">
         <img src="desktop/home.png"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="desktop">
-        <img src="desktop/make.png"/>
       </a>
     </td>
   </tr>
