@@ -4,15 +4,15 @@
   </tr>
   <tr>
     <td>
-      <a href="https://raw.githubusercontent.com/precursorapp/press/master/logo/white.svg">
-        <img src="https://raw.githubusercontent.com/precursorapp/press/master/logo/white.svg"/>
+      <a href="white.svg">
+        <img src="white.png"/>
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://raw.githubusercontent.com/precursorapp/press/master/logo/black.svg">
-        <img src="https://raw.githubusercontent.com/precursorapp/press/master/logo/black.svg"/>
+      <a href="black.svg">
+        <img src="black.png"/>
       </a>
     </td>
   </tr>
@@ -23,15 +23,15 @@
   </tr>
   <tr>
     <td>
-      <a href="https://raw.githubusercontent.com/precursorapp/press/master/logo/white.png">
-        <img src="https://raw.githubusercontent.com/precursorapp/press/master/logo/white.png"/>
+      <a href="white.png">
+        <img src="white.png"/>
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://raw.githubusercontent.com/precursorapp/press/master/logo/black.png">
-        <img src="https://raw.githubusercontent.com/precursorapp/press/master/logo/black.png"/>
+      <a href="black.png">
+        <img src="black.png"/>
       </a>
     </td>
   </tr>
