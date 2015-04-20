@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <th>desktop</th>
+    <th>home</th>
   </tr>
   <tr>
     <td>
@@ -10,6 +10,9 @@
     </td>
   </tr>
   <tr>
+    <th>make</th>
+  </tr>
+  <tr>
     <td>
       <a href="https://raw.githubusercontent.com/precursorapp/press/master/desktop/make.png">
         <img src="make.png"/>
@@ -17,11 +20,17 @@
     </td>
   </tr>
   <tr>
+    <th>team</th>
+  </tr>
+  <tr>
     <td>
       <a href="https://raw.githubusercontent.com/precursorapp/press/master/desktop/team.png">
         <img src="team.png"/>
       </a>
     </td>
+  </tr>
+  <tr>
+    <th>chat</th>
   </tr>
   <tr>
     <td>
