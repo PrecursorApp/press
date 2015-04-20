@@ -4,7 +4,7 @@
   </tr>
   <tr>
     <td>
-      ![](white.pdf?raw=true)
+      ![alt](white.pdf?raw=true)
       <a href="white.pdf?raw=true">
         <img src="white.png"/>
       </a>
