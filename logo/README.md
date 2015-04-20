@@ -1,17 +1,17 @@
 <table>
   <tr>
-    <th>svg</th>
+    <th>pdf</th>
   </tr>
   <tr>
     <td>
-      <a href="white.svg">
+      <a href="white.pdf">
         <img src="white.png"/>
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="black.svg">
+      <a href="black.pdf">
         <img src="black.png"/>
       </a>
     </td>
