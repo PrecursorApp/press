@@ -4,28 +4,28 @@
   </tr>
   <tr>
     <td>
-      <a href="home.png">
+      <a href="https://raw.githubusercontent.com/precursorapp/press/master/phone/home.png">
         <img src="home.png"/>
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="make.png">
+      <a href="https://raw.githubusercontent.com/precursorapp/press/master/phone/make.png">
         <img src="make.png"/>
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="team.png">
+      <a href="https://raw.githubusercontent.com/precursorapp/press/master/phone/team.png">
         <img src="team.png"/>
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="chat.png">
+      <a href="https://raw.githubusercontent.com/precursorapp/press/master/phone/chat.png">
         <img src="chat.png"/>
       </a>
     </td>
