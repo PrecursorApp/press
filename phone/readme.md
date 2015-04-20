@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <th>desktop</th>
+    <th>phone</th>
   </tr>
   <tr>
     <td>
