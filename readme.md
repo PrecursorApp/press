@@ -3,9 +3,6 @@ Precursor
 Email [press@precursorapp.com](mailto:press@precursorapp.com) for press inquiries. <br>
 Download [this press kit](/PrecursorApp/press/archive/master.zip) for quick use. <br>
 Visit [precursorapp.com](https://precursorapp.com/home) for more information. <br>
-
-Branding
-===
 <table>
   <tr>
     <th>logo</th>
